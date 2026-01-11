@@ -459,39 +459,6 @@ backend_hiring_test_11_jan_2026/
 └── README.md              # This file
 ```
 
-## Demo Video Recording Guide
-
-For the demo video (2-5 minutes, 3-4 minutes ideal):
-
-1. **Setup (30 seconds)**
-   - Show the project folder structure
-   - Show the `.env` file
-   - Show MongoDB running
-
-2. **Start the Server (15 seconds)**
-   - Run `npm start` and show the startup message
-
-3. **Testing Flow (2-3 minutes)**
-   - Register a customer account
-   - Register an organizer account
-   - Create an event as organizer
-   - Publish the event
-   - View published events
-   - Book tickets as customer (show booking confirmation job output)
-   - View bookings
-   - Update event as organizer (show notification job output)
-
-4. **Conclusion (15 seconds)**
-   - Explain the key features
-   - Mention the background job processing
-
-Remember to:
-- Show your face
-- Speak in English
-- Keep the demo clear and concise
-- Highlight the role-based access control
-- Demonstrate both background jobs
-
 ## Support & Troubleshooting
 
 ### MongoDB Connection Issues
@@ -515,7 +482,7 @@ If port 3000 is already in use:
 ISC
 
 ## Author
-Event Booking System - Backend Hiring Test
+Priyamvad Acharya
 
 ---
 
